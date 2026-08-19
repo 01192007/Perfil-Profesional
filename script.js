@@ -57,8 +57,8 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en desarrollo web, programación y bases de datos. Sé trabajar con tecnologías como PHP, Laravel, HTML y herramientas de desarrollo, y estoy enfocado en mejorar mis habilidades para crear aplicaciones funcionales.",
-  "edu.2.title": "[Certificado en Desarrollo empresarial Full Stack con Spring Boot 4 y Angular 21]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.2.title": "Certificado en Desarrollo empresarial Full Stack con Spring Boot 4 y Angular 21",
+  "edu.2.text":  "Aprendí los fundamentos para conectar un frontend en Angular con un backend en Spring Boot, consumiendo peticiones HTTP básicas. Me puede servir para el desarrolo de aplicaciones web",
 
   "exp.1.title": "[Rol o tipo de proyecto]",
   "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
@@ -74,11 +74,11 @@ const ES = {
   "project.3.text":  "[Tecnologías usadas]",
 
   "contact.title":         "Contacto",
-  "contact.intro": " Si tienes algun proyecto en mente o alguna duda sobre mi, no dudes en escribirme " ,
+  "contact.intro": "Si tienes algun proyecto en mente o alguna duda sobre mi, no dudes en escribirme" ,
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": " Luis David Capera Devia · Técnico Profesional en Programación Web · UniEspinal "
+  "footer.note": "Luis David Capera Devia · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -98,16 +98,16 @@ const EN = {
   "nav.portfolio": "PROJECTS",
   "nav.contact":   "CONTACT",
 
-  "hero.role": "Web Developer · Technical Support",
+  "hero.role": "systems engineering student",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I'm a Systems Engineering student with training in programming and web development. I'm particularly interested in application development, databases, and creating technological solutions. I'm currently looking to continue learning, strengthen my skills, and gain experience in software development.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
+  "about.valueLocation":  "Purification-Tolima, Colombia",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English ([your level])",
+  "about.valueLanguages": "Spanish (native) · English (A2)",
   "about.labelStatus":    "Availability",
   "about.valueStatus":    "Open to internships",
   "about.interestsTitle": "Interests",
@@ -130,9 +130,9 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.1.text":  "I am currently learning and strengthening my knowledge in web development, programming, and databases. I am proficient in technologies such as PHP, Laravel, HTML, and development tools, and I am focused on improving my skills in creating functional applications.",
+  "edu.2.title": "Certified in Full Stack Enterprise Development with Spring Boot 4 and Angular 21",
+  "edu.2.text":  "I learned the fundamentals of connecting an Angular frontend to a Spring Boot backend, consuming basic HTTP requests. This can be useful for web application development.",
 
   "exp.1.title": "[Role or type of project]",
   "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
@@ -148,11 +148,11 @@ const EN = {
   "project.3.text":  "[Technologies used]",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "If you have a project in mind or any questions about me, feel free to write to me.",
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Luis David Capera Devia · Professional Technician in Web Programming · UniEspinal"
 };
 
 
