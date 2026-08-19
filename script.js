@@ -24,16 +24,16 @@ const ES = {
   "nav.portfolio": "PROYECTOS",
   "nav.contact":   "CONTACTO",
 
-  "hero.role": "Desarrollador Web · Soporte Técnico",
+  "hero.role": "Estudiante De Ingenieria En Sistemas",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           "Soy estudiante de Ingeniería de Sistemas y tengo formación en programación y desarrollo web. Me interesa especialmente el desarrollo de aplicaciones, las bases de datos y la creación de soluciones tecnológicas. Actualmente busco seguir aprendiendo, fortalecer mis habilidades y adquirir experiencia en el desarrollo de software.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Purificacion-Tolima, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
+  "about.valueLanguages": "Español (nativo) · Inglés (A2)",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
@@ -56,8 +56,8 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
+  "edu.1.text":  "Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en desarrollo web, programación y bases de datos. Sé trabajar con tecnologías como PHP, Laravel, HTML y herramientas de desarrollo, y estoy enfocado en mejorar mis habilidades para crear aplicaciones funcionales.",
+  "edu.2.title": "[Certificado en Desarrollo empresarial Full Stack con Spring Boot 4 y Angular 21]",
   "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
 
   "exp.1.title": "[Rol o tipo de proyecto]",
