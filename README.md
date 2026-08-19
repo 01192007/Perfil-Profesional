@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
+| Home | My name is Luis David Capera Devia, I am a Technical Student specializing in Web Programming, my email is davidcapera0119@gmail.com |
 | About | Two or three sentences about you |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
