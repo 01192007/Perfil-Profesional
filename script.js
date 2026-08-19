@@ -74,11 +74,11 @@ const ES = {
   "project.3.text":  "[Tecnologías usadas]",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.intro":         "Si tienes algun proyecto en mmente o alguna duda sobre mi, no dudes en escribirme",
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Luis David Capera Devia · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
