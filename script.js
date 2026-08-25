@@ -76,7 +76,7 @@ const ES = {
   "contact.title":         "Contacto",
   "contact.intro": "Si tienes algun proyecto en mente o alguna duda sobre mi, no dudes en escribirme" ,
   "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.linkedinValue": "www.linkedin.com/in/david-capera-8a6208431",
 
   "footer.note": "Luis David Capera Devia · Técnico Profesional en Programación Web · UniEspinal"
 };
@@ -150,7 +150,7 @@ const EN = {
   "contact.title":         "Contact",
   "contact.intro":         "If you have a project in mind or any questions about me, feel free to write to me.",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.linkedinValue": "www.linkedin.com/in/david-capera-8a6208431",
 
   "footer.note": "Luis David Capera Devia · Professional Technician in Web Programming · UniEspinal"
 };
