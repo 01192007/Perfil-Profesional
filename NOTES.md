@@ -50,11 +50,11 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: Utilicé ChatGPT para ayudarme a traducir algunas oraciones y revisar mi gramática en inglés. También utilicé la plantilla web proporcionada por mi profesor y edité la información para crear mi perfil profesional.
->
-> English: I used ChatGPT to help me translate some sentences and check my English grammar. I also used the website template provided by my teacher and edited the information to create my professional profile.
->
-> [Write 2–4 sentences in English explaining the change.]
+**Spanish:** Me interesa especialmente el desarrollo de aplicaciones, las bases de datos y la creación de soluciones tecnológicas.
+
+**English:** I am especially interested in application development, databases, and creating technology solutions.
+
+**Explanation:** This sentence was difficult because some expressions are different in English. I changed "Me interesa especialmente" to "I am especially interested in" because a word-by-word translation would not sound natural. I also changed the order of some words to make the sentence clearer.
 
 ---
 
@@ -64,10 +64,7 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 **Which tools did you use, and for what?**
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
+> I used ChatGPT to help me translate some sentences and check my English grammar. I also used the website template provided by my teacher and edited the information to create my professional profile.
 
 ---
 
