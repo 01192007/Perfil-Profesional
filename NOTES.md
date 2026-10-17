@@ -31,7 +31,7 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> I omitted some details about my hobbies and interests in the English version. I wanted to make the text shorter and focus more on my professional skills.
 
 ---
 
@@ -40,7 +40,7 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
+> I kept the word "web" in both versions. It is a common technical term in programming. I did not translate it because it is easy to understand in both languages.
 
 ---
 
@@ -50,9 +50,9 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: Utilicé ChatGPT para ayudarme a traducir algunas oraciones y revisar mi gramática en inglés. También utilicé la plantilla web proporcionada por mi profesor y edité la información para crear mi perfil profesional.
 >
-> English: [copy your sentence here]
+> English: I used ChatGPT to help me translate some sentences and check my English grammar. I also used the website template provided by my teacher and edited the information to create my professional profile.
 >
 > [Write 2–4 sentences in English explaining the change.]
 
