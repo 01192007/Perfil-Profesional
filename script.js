@@ -140,8 +140,8 @@ const EN = {
   "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
+  "project.1.title": "Perfil Profesional",
+  "project.1.text":  "Java Script, git hub",
   "project.2.title": "[Project name]",
   "project.2.text":  "[Technologies used]",
   "project.3.title": "[Project name]",
