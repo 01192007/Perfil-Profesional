@@ -141,7 +141,7 @@ const EN = {
 
   "portfolio.title": "Projects",
   "project.1.title": "Perfil Profesional",
-  "project.1.text":  "Java Script, git hub",
+  "project.1.text":  "Edicion de la plantilla impuesta por el profesor en el area de ingles",
   "project.2.title": "[Project name]",
   "project.2.text":  "[Technologies used]",
   "project.3.title": "[Project name]",
